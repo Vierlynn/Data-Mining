@@ -1,6 +1,6 @@
 # Data Mining Final Task
 ## Paper remake: “Machine Learning and Data Mining Methods in Diabetes Research” 
-
+### GAB01-02: Yoan Maria Vianny, Nanda Hakiki
 This directory contains the implementation of diabetes prediction using Support Vector Machine, Naïve Bayes, Logistic Regression, and K-Nearest Neighbor which are algorithms that are covered in this paper remake.
 
 Please follow this instruction if you have an issue when mounting the dataset.
